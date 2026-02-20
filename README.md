@@ -11,4 +11,4 @@
 
 ## Current Projects
 
-- 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration the digital world of valheim
+- 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration in the digital world of [Valheim](https://store.steampowered.com/app/892970/Valheim/)
