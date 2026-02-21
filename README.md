@@ -12,3 +12,5 @@
 ## Current Projects
 
 - 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration in the digital world of [Valheim](https://store.steampowered.com/app/892970/Valheim/)
+- 🥾 **[Procedural Roads](https://github.com/jneb802/ProceduralRoads)** - A procedrual generation algorithim to create natural roads, also in [Valheim](https://store.steampowered.com/app/892970/Valheim/)
+- 👾 **[Monster Modifiers](https://github.com/jneb802/MonsterModifiers)** - Monster behaviors and powers to make combat challenging. Yup, also in [Valheim](https://store.steampowered.com/app/892970/Valheim/)
