@@ -9,7 +9,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## Current Projects
+## Projects
 
 - 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration in the digital world of [Valheim](https://store.steampowered.com/app/892970/Valheim/).
 - 🥾 **[Procedural Roads](https://github.com/jneb802/ProceduralRoads)** - A procedrual generation algorithim to create natural roads, also in Valheim.
