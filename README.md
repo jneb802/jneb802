@@ -15,11 +15,11 @@
 - 🥾 **[Procedural Roads](https://github.com/jneb802/ProceduralRoads)** - A procedrual generation algorithim to create natural roads, also in Valheim.
 - 📚 **[JotunnLib](https://github.com/Valheim-Modding/Jotunn)** - Modding library for Valheim.
 - 👾 **[Monster Modifiers](https://github.com/jneb802/MonsterModifiers)** - Monster behaviors and powers to make combat challenging. Yup, also in Valheim.
+- ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
+- 🌁 **[Val Bridge Server](https://github.com/jneb802/ValBridgeServer)** - An MCP server for the video game Valheim.
 - 📸 **[Discord Screenshots](https://github.com/jneb802/discordScreenshots)** - Send screenshots from Valheim.
+- 📊 **[Mod Analytics](https://github.com/jneb802/modAnalytics)** - Record Thunderstore mod downloads and log to Discord.
 - 🧑‍🌾 **[Barn Bench](https://github.com/jneb802/barnbench)** - Manage each repo's feature.md file in one GUI.
 - ⚡ **[Fast Bookmarks](https://github.com/jneb802/fastBookmarks)** - Open chrome bookmarks from a spotlight-like hotkey.
 - 🛠️ **[Location Tools](https://github.com/jneb802/location-tools)** - Import Valheim blueprint files into Unity editor.
-- 📊 **[Mod Analytics](https://github.com/jneb802/modAnalytics)** - Record Thunderstore mod downloads and log to Discord.
 - 🏃 **[Skill Runner](https://github.com/jneb802/skillrunner)** - Spawn a coding agent to run one to many skills.
-- ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
-- 🌁 **[Val Bridge Server](https://github.com/jneb802/ValBridgeServer)** - An MCP server for the video game Valheim.
