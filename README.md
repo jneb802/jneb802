@@ -16,6 +16,7 @@
 - 📚 **[JotunnLib](https://github.com/Valheim-Modding/Jotunn)** - Modding library for Valheim.
 - 👾 **[Monster Modifiers](https://github.com/jneb802/MonsterModifiers)** - Monster behaviors and powers to make combat challenging. Yup, also in Valheim.
 - ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
+- 💻 **[ModManager CLI](https://github.com/jneb802/mmcli)** - A CLI-based mod manager for Thunderstore mods on macOS
 - 🌁 **[Val Bridge Server](https://github.com/jneb802/ValBridgeServer)** - An MCP server for the video game Valheim.
 - 📸 **[Discord Screenshots](https://github.com/jneb802/discordScreenshots)** - Send screenshots from Valheim.
 - 📊 **[Mod Analytics](https://github.com/jneb802/modAnalytics)** - Record Thunderstore mod downloads and log to Discord.
