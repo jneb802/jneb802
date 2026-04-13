@@ -13,6 +13,7 @@
 
 - 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration in the digital world of [Valheim](https://store.steampowered.com/app/892970/Valheim/).
 - 🥾 **[Procedural Roads](https://github.com/jneb802/ProceduralRoads)** - A procedrual generation algorithim to create natural roads, also in Valheim.
+- 🎮 **[mmcli](https://github.com/jneb802/mmcli)** - A cli-based mod manager for thunderstore mods on macOS
 - 📚 **[JotunnLib](https://github.com/Valheim-Modding/Jotunn)** - Modding library for Valheim.
 - 👾 **[Monster Modifiers](https://github.com/jneb802/MonsterModifiers)** - Monster behaviors and powers to make combat challenging. Yup, also in Valheim.
 - ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
