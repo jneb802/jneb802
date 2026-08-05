@@ -17,4 +17,3 @@
 - 📚 **[JotunnLib](https://github.com/Valheim-Modding/Jotunn)** - Modding library for Valheim.
 - ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
 - 🌁 **[Val Bridge Server](https://github.com/jneb802/ValBridgeServer)** - An MCP server for the video game Valheim.
-- 📸 **[Discord Screenshots](https://github.com/jneb802/discordScreenshots)** - Send screenshots from Valheim.
