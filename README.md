@@ -12,7 +12,7 @@
 - 🌁 **[valheimCLI](https://github.com/jneb802/valheimCLI)** - An TCP server to receive agent tool calls to the video game Valheim.
 
 ## Links
-- **[Discord](https://discord.gg/p9xztvJUV4)** - where I run a gaming community
-- **[Thunderstore](https://thunderstore.io/c/valheim/p/warpalicious/)** - where I post my Valheim mods
-- **[YouTube](https://www.youtube.com/@warpalicious)** - where I post videos I make about gaming
-- **[itch.io](https://warpalicious.itch.io/)** - where I post my games
+- 💬 **[Discord](https://discord.gg/p9xztvJUV4)** - where I run a gaming community
+- ⚡ **[Thunderstore](https://thunderstore.io/c/valheim/p/warpalicious/)** - where I post my Valheim mods
+- ▶️ **[YouTube](https://www.youtube.com/@warpalicious)** - where I post videos I make about gaming
+- 🎮 **[itch.io](https://warpalicious.itch.io/)** - where I post my games
