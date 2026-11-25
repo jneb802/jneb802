@@ -2,13 +2,6 @@
 
 📍 **San Francisco**
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-
 ## Projects
 
 - 🏔️ **[More World Locations](https://github.com/jneb802/MoreWorldLocations_All)** - Encouraging exploration in the digital world of [Valheim](https://store.steampowered.com/app/892970/Valheim/).
@@ -16,4 +9,10 @@
 - 💻 **[ModManager CLI](https://github.com/jneb802/mmcli)** - A CLI-based mod manager for Thunderstore mods on macOS
 - 📚 **[JotunnLib](https://github.com/Valheim-Modding/Jotunn)** - Modding library for Valheim.
 - ⚔️ **[Valheim Mod Template macOS](https://github.com/jneb802/valheimModTemplateMacOS)** - Template to build Valheim mods on macOS
-- 🌁 **[Val Bridge Server](https://github.com/jneb802/ValBridgeServer)** - An MCP server for the video game Valheim.
+- 🌁 **[valheimCLI](https://github.com/jneb802/valheimCLI)** - An TCP server to receive agent tool calls to the video game Valheim.
+
+## Links
+- **[Discord](https://discord.gg/p9xztvJUV4)** - where I run a gaming community
+- **[Thunderstore](https://thunderstore.io/c/valheim/p/warpalicious/)** - where I post my Valheim mods
+- **[YouTube](https://www.youtube.com/@warpalicious)** - where I post videos I make about gaming
+- **[itch.io](https://warpalicious.itch.io/)** - where I post my games
